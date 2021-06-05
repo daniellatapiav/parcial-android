@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Parcial_TapiaVillanes</string>
+    <string name="main_title">Asociación de AFP</string>
+    <string name="label_id">Tipo de documento</string>
+    <string name="label_idnumber">Número de documento</string>
+    <string name="label_gender">Género</string>
+    <string name="label_male">Masculino</string>
+    <string name="label_female">Femenino</string>
+    <string name="btn_consultar">Consultar</string>
+    <string name="label_result">Usted puede retirar hasta:</string>
+    <string name="label_amount">Ingrese el monto a retirar</string>
+    <string name="btn_solicitar">Solicitar monto</string>
+    <string name="btn_finalizar">Finalizar</string>
+    <string name="label_20000">S/ 20,000</string>
+    <string name="btn_solicitar_short">Solicitar</string>
+
+    <string-array name="tipos_documento">
+        <item>DNI</item>
+        <item>Pasaporte</item>
+        <item>Carné de Extranjería</item>
+    </string-array>
+</resources>
